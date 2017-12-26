@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Bc4 Nf6 5.e5 d5 6.Bb5 {6.exd6 Bxd6 and 
+6.exf6 dxc4 are both good for Black} 6...Ne4 7.Nxd4 {Key tabia} 7...Bd7 8.
+Bxc6 bxc6 9.O-O {Fundemental Tabia for the 5...d5, 7...Bd7 line} 9...Bc5 {
+Variation A} 
+    ( 9...Be7 {Variation B} )
+    ( 9...c5 {Variation C} )
+*
+

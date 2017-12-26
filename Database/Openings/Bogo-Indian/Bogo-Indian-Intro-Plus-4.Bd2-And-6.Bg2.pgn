@@ -1,0 +1,35 @@
+[Event "?"]
+    [Site "?"]
+    [Date "????.??.??"]
+    [Round "?"]
+    [White "?"]
+    [Black "?"]
+    [Result "*"]
+    
+    1.d4 Nf6 2.c4 e6 3.Nf3 Bb4+ 4.Bd2 
+        ( 4.Nc3 {Transpose to Nimzo} )
+        ( 4.Nfd2 {Variation covered separately} )
+    4...Qe7 5.g3 Nc6 6.Bg2 
+        ( 6.Nc3 {Variation covered separately} )
+    6...Bxd2+ 7.Nbxd2 
+        ( 7.Qxd2? Ne4 8.Qc2 Qb4+ )
+    7...O-O 8.O-O d6 9.e4 e5 10.d5 Nb8 11.b4 
+        {Variation A - fight for queenside and prepare thematic c5 advance
+        }
+        ( 11.Ne1 {Variation B - knight heads toward d3 to support f4 or 
+        b4-c5 advance} 11...a5 12.Nd3 Na6 13.a3 {Variation B1} 
+            ( 13.f4 {Variation B2} 13...c6 14.h3 {Variation B2a} 
+                ( 14.f5 {Variation B2b} 14...cxd5 15.exd5 e4 16.Qe2 b5! {
+                Black's queenside counterplay comes to life} )
+                ( 14.fxe5 {Variation B2c} 14...dxe5 )
+            14...cxd5 15.cxd5 Bd7 )
+        13...Bg4 {actually wants Bd7, but Bg4 provokes f3, blocking 
+        White's bishop} 14.f3 Bd7 15.b4 c6 16.bxa5 Qd8 17.Nb3 cxd5 18.cxd5
+        Bb5 19.Rf2 Nd7 20.Nb2 Nac5 {Outpost} )
+    11...a5 12.a3 Na6 13.Qb3 
+        {Note 13.Ne1 transposes to variation B}
+    13...c6 14.Ne1 Bd7 15.Nd3 cxd5 
+        {Important to take d5 without playing axb4 first, since after 
+        exd5, the opening of the a-file favors White}
+    16.exd5 Bf5! 17.Nb2 h5 *
+    

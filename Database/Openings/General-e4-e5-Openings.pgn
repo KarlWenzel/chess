@@ -1,0 +1,28 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 e5 2.Nf3 
+    ( 2.f4 {King's Gambit} )
+2...Nc6 
+    ( 2...Nf6 {Petroff's Defense} )
+3.Bb5 
+    {Ruy Lopez}
+    ( 3.Bc4 {Italian Game} 3...Bc5 {Giuco Piano} 
+        ( 3...Nf6 {Two Knights' Defense} )
+    4.c3 
+        ( 4.b4 {Evans Gambit} )
+    4...Nf6 )
+    ( 3.Nc3 {Three Knights Opening} 3...Nf6 {Four Knights Game} 
+        ( 3...Bc5? {Allows White to fork on move 5} 4.Nxe5 Nxe5 5.d4 )
+    4.g3 Bc5 5.Bg2 d6 6.O-O O-O )
+    ( 3.d4 {Scotch Opening} )
+3...a6 4.Ba4 
+    ( 4.Bxc6? {Bobby Fischer move - don't try to win a pawn!} 4...dxc6! {
+    Opens Q} 5.Nxe5? Qd4 )
+4...Nf6 5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O 9.h3 Na5 *
+

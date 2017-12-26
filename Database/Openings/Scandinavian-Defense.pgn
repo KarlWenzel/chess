@@ -1,0 +1,57 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 d5 2.exd5 Qxd5 
+    {Variation A - Note that 3...Qe5+ is bad: 4.Be2 Bg4 5.d4 Bxe2 6.Ngxe2 
+    Qh5 7.Bf4 - White is better developed}
+    ( 2...Nf6 {Variation B - Scandinavian Defense: Modern Variation} 3.d4 
+    {Another promising, simpler line is 3.Bb5+ Bd7 4.Be2!, causing Black's
+    bishop to block the d-file} 3...Nxd5 {Variation B1} 
+        ( 3...Bg4 {Variation B2} 4.Be2 {4.f3 is an option for a sharp line
+        called the Portuguese, but Black gets some compensation} 4...Bxe2 
+        5.Qxe2 Qxd5 6.Nf3 Nc6 7.O-O O-O-O {Or 7...Nxd4?! 8.Nxd4 Qxd4 
+        9.Qb5+} 8.Be3 e6 9.c4 Qh5 10.Nc3 {Favorable for White as his 
+        development is a little better, which is an advantage especially 
+        when the opponent castles on opposite side of board} 10...Bd6 11.
+        c5 Be7 12.b4! Nxb4 {If 12...Nd5 13.Nxd5 Rxd5 14.b5 Nd8 15.a4 g5 
+        16.a5 g4 17.Nd2} 13.Rab1 Nbd5 14.Nxd5 Qxd5 15.Ne5 {Threatens rook 
+        fork} 15...Rhf8 16.c6! )
+    4.Nf3 Bg4 {Variation B1a} 
+        ( 4...g6 {Variation B1b} 5.c4 Nb6 6.Nc3 Bg7 7.c5! Nd5 8.Bc4 {White
+        develops while putting pressure on Black's position} 8...c6 9.Qb3 
+        O-O 10.O-O {Avoid 10.Nxe5 cxd5 11.Bxd5 Nc6 - Black puts strong 
+        pressure on White's center} 10...Nxc3 11.bxc3 b5 {After 11...b6 
+        12.Re1 bxc5 13.Bg5 Bf6 14.Bxf6 exf6 15.dxc5, and White controls 
+        center} 12.cxb6 axb6 13.Re1 b5 14.Bd3 Be6? 15.Rxe6! fxe6 16.Qxe6+ 
+        Kh8 17.Ng5! Qd5 {Or 17...Qd7 Nf7+ Rxf7 19.Qxf7 +=} 18.Qh3! h6 19.
+        Ne6 )
+    5.Be2 {The aggressive and popular 5.c4 Nb6 6.c5 is bad b/c 6...N6d7!} 
+    5...Nc6 6.h3 Bh5 7.O-O e6 8.Re1 {Variation B1a1 (White has two equally
+    good plans)} 
+        ( 8.c4 {Variation B1a2 (White has two equally good plans)} 8...Nb6
+        9.b3 Be7 10.Be3 O-O 11.Nc3 )
+    8...Be7 9.Nbd2 O-O 10.c3 Qd7 11.Ne4 {White has a solid center and 
+    small edge} )
+3.Nc3 Qa5 
+    {Variation A1}
+    ( 3...Qd6 {Variation A2} 4.g3 {White moves to control the long 
+    diagonal, but the standard 4.d4 Nf6 5.Nf3 (or 5.Bc4) are also good} 
+    4...Nf6 5.Bg2 c6 6.d4 Bf5 7.Nf3 e6 8.O-O Be7 9.a3! {This subtle move 
+    attempts to disrupt Black's natural development - note if ...Nbd7 then
+    Bf4! will trap the queen} 9...O-O 10.Re1 Qc7 11.Ne5 Rd8 12.g4 Bg6 13.
+    h4! )
+    ( 3...Qd8 {Variation A3} 4.d4 g6 5.Bf4! Bg7 6.Qd2! {Note if 
+    6...Bxd4 7,0-0-0 Nc6 8.Bb5 B7 9.Nd5! or 6...Qxd4 7.Qxd4 Bxd4 8.Nb5 Bb6
+    9.Nxc7+} )
+4.d4 Nf6 5.Nf3 c6 6.Ne5 
+    {Instead of 6.Bc4 with the intent of harassing the Black queen with a 
+    timely Nc4}
+6...Be6 
+    {If 6...Bf5 7.g4 Be4}
+7.Nc4! Bxc4 8.Bxc4 *
+

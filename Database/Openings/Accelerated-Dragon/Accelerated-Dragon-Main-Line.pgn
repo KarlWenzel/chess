@@ -1,0 +1,86 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 c5 2.Nf3 g6 3.d4 cxd4 4.Nxd4 Nc6 5.Nc3 {Or possible transposition: 
+5.Be3 Nf6 6.Nc3} 
+    ( 5.Nxc6? {Inaccuracy} 5...bxc6 6.Qd4 Nf6 7.e5 Nd5 8.e6 f6 )
+5...Bg7 6.Be3 
+    ( 6.Nxc6? {Inaccuracy - leaves Black w/ better development} 6...bxc6 )
+6...Nf6 {Rather than d6, such as standard Dragon (reserve right to play d5
+in one move)} 7.Bc4 {White defends d5} 
+    ( 7.Qd2 {Inaccuracy} 7...Ng4 )
+7...O-O 8.Bb3 
+    ( 8.O-O? {Inaccuracy} 8...Nxe4 9.Nxe4 
+        ( 9.Bxf7+ Rxf7 10.Nxe4 Qa5 {Black maintains central pawns and 
+        bishop pair} )
+    9...d5 10.Nxc6 bxc6 11.Bd3 dxe4 12.Bxe4 Ba6 {Equal position} )
+    ( 8.f3 {Inaccuracy} 8...Qb6 {Black wants 9...Qxb2 unless 9.a3 d6 or 
+    9.Bb3 Nxe4! 10.Nd5! Qa5+ 11.c3} )
+8...a5 {Black undermines guardians of d5} 9.a4 {Main Line Variation A - 
+note weakened pawn structure if White castles long} 
+    ( 9.O-O {Main Line Variation B} 9...d6 {Opens light-square bishop, 
+    threatens 10...Ng4} 10.Ndb5 {B1 Variation} 
+        ( 10.f3 {B2 Variation} 10...Nxd4 11.Bxd4 Bd7 12.a4 Bc6 )
+        ( 10.h3 {B3 Variation} 10...Nxd4 11.Bxd4 Bd7 12.a4 
+            ( 12.Nd5? {Inaccuracy} 12...Nxd5 13.exd5 Bxd4 14.Qxd4 Qc7 15.
+            Rae1 Rfe8 )
+        12...Bc6 13.f4 {B3a Variation} 
+            ( 13.Qd3 {B3b Variation} 13...Nd7 14.Bxg7 Kxg7 15.Rad1 Ne5 )
+        13...Nd7 14.Bxg7 Kxg7 15.Qd4+ f6 )
+    10...b6 )
+    ( 9.f3 {Main Line Variation C - White plans on castling long after 
+    Qd2. The move strengthens e4, prevents Ng4, and supports pawn rush to 
+    g4} 9...d5 {Thematic move: Black sacrifices pawn to get dynamic piece 
+    play} 10.exd5 {C1 Variation} 
+        ( 10.Bxd5 {C2 Variation - WARNING: I stopped analyzing here for 
+        this line as it is getting deep} 10...Nxd5 11.Nxd5 
+            ( 11.exd5 Nb4 12.Nde2 e6 13.dxe6 
+                ( 13.a3 Nxd5 14.Nxd5 exd5 15.Bd4 Bh6 )
+                ( 13.Qd2 exd5 14.Bd4 
+                    ( 14.O-O d4 )
+                    ( 14.O-O-O Bf5 )
+                14...Bxd4 )
+            13...Bxe6 14.a3 )
+        11...f5 12.c3 
+            ( 12.Nxc6 bxc6 )
+        12...fxe4 )
+        ( 10.Nxd5 {C3 Variation - weakest} 10...Nxd5 
+            ( 10...a4 {Alternate response for Black GM Yasser Seirawan 
+            https://youtu.be/13Y4QR_-Upc?t=34m42s} 11.Nxf6+ 
+                ( 11.Bc4 Nxd5 12.Bxd5 
+                    ( 12.exd5 Na5 
+                        ( 12...Nb4 13.Ne2 {Unblock Q to protect d5} 13...
+                        a3 )
+                    13.b3 Nxc4 14.bxc4 Qa5+ 15.Bd2 Qc5 )
+                12...Nxd4 13.Bxd4 Bxd4 14.Qxd4 e6 {Bishop is pinned} )
+            11...Bxf6 12.Bd5 Nxd4 13.Bxd4 Bxd4 14.Qxd4 e6 {Bishop is 
+            pinned} )
+        11.exd5 
+            ( 11.Bxd5? {Inaccuracy} 11...Nxd4 12.Bxd4 Bxd4 13.Qxd4 e6 )
+        11...Nb4 )
+    10...Nb4 11.Nde2 a4 {This follows Black's purpose of challenging d5 
+    with 8...a5} 12.Bxa4 {C1a Variation} 
+        ( 12.Nxa4 {C1b Variation} 12...Nfxd5 13.Bf2 
+            ( 13.Bd4? {Inaccuracy} 13...Bxd4 14.Qxd4 
+                ( 14.Nxd4 Ne3 15.Qd2 Qxd4 16.Qxd4 Nexc2+ )
+            14...Bf5 {Book goes further p.74} )
+        13...Bf5 14.a3 {C1b1 Variation} 
+            ( 14.O-O {C1b2 Variation} 14...b5 {book goes further p.77} )
+        14...Nxc2+ 15.Bxc2 Qa5+ 16.b4 {book goes further p.76} 
+            ( 16.Nac3? {Inaccuracy} 16...Nxc3 17.Nxc3 Bxc3+ )
+        )
+    12...Nfxd5 13.Bf2 
+        ( 13.Bd4? {Inaccuracy} 13...Bxd4 14.Nxd4 
+            ( 14.Qxd4 Rxa4 15.Nxa4 Nxc2+ )
+        14...Ne3 15.Qd2 Qxd4 16.Qxd4 Nexc2+ )
+    13...Nxc3 14.Nxc3 Qxd1+ 15.Kxd1 Rd8+ )
+9...Ng4 10.Qxg4 
+    ( 10.Nxc6? {Inaccuracy} 10...Nxe3 11.Nxd8 Nxd1 12.Rxd1 Bxc3+ 13.bxc3 
+    Rxd8 )
+10...Nxd4 11.Qh4 d6 12.Nd5 Re8 13.Rd1 Nxb3 *
+

@@ -1,0 +1,25 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 c5 2.Nf3 g6 3.Bc4 
+    {Variation A}
+    ( 3.c3 {Variation B - White plans to take over center with d4 a la 
+    Alapin Variation} 3...Bg7 4.d4 cxd4 5.cxd4 d5 {Black has to challenge 
+    White's center} 6.e5 {Variation B1 - White closes off Black's bishop} 
+        ( 6.exd5 {Variation B2 - White opens position} )
+    6...Bg4 7.Nc3 {Variation B1a} 
+        ( 7.Nbd2 {Variation B1b} )
+        ( 7.Qb3 {Variation B1c} )
+        ( 7.Bb5+ {Weak line for White - example follows} 7...Nd7 8.O-O a6 
+        9.Bxd7+ Qxd7 10.Nbd2 Nh6 )
+    )
+3...Bg7 4.c3 
+    ( 4.O-O {Unnamed variation, Black should avoid 4...e6 to prevent 5.d4 
+    cxd4 6.Nxd4} 4...Nc6 )
+4...e6 5.d4 cxd4 6.cxd4 d5 7.exd5 exd5 8.Bb5+ Bd7 9.Bxd7+ Nxd7 *
+

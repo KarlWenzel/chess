@@ -1,0 +1,210 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O d6 8. Qb3 Qe7
+{ Variation A1 } 9. e5 dxe5 10. Ba3 Qf6 11. Nbd2 { Now all of White's
+pieces are in play, whlile Black struggles to develop } 11... Nge7 12. Ne4
+Qg6 13. Bxe7 { Book extends theory beyond this to subvars a-c, but my
+analysis stops here } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 { Variation B } 5. c3 dxc3 {
+Variation B1 } 6. Qd5 { Threatens mate in 1 } 6... Nh6 7. Bxh6 O-O 8. Bxg7
+$1 Kxg7 9. Nxc3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Be7 { Variation B } 5. c3 Nf6 {
+Variation B2 } 6. e5 $1 Ne4 7. Bd5 Nc5 8. cxd4 Ne6 9. Nc3 { White has
+strong positional advantage } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 { Variation C } 5. c3 d3 {
+Variation C1 } 6. b4 Bb6 7. a4 a6 8. Bxd3 d6 9. O-O Nf6 10. Nbd2 O-O 11.
+Nc4 { White slightly better b/c space advantage } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 { Variation C } 5. c3 dxc3 {
+Variation C2 } 6. Bxf7+ Kxf7 7. Qd5+ Ke8 8. Qxc5 Qe7 9. Qxe7+ Ngxe7 10.
+Nxc3 { White is better in the endgame, for example: } 10... d5 11. exd5 Nb4
+12. Bg5 $1 Nc2+ 13. Kd1 Nxa1 14. Re1 Bf5 15. Rxe7+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 { Variation C } 5. c3 Nf6 {
+Variation C3 - Transpose to Giuco Piano } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 { Variation C } 5. c3 d3 {
+Variation C1 } 6. b4 Bb6 7. a4 a5 $6 8. b5 Nce7 9. Qb3 d5 10. exd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 { Variation X - Transpose to Two
+Knights Defense after 5.e5 } 5. e5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Be7 $2 7. Qd5 $1 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O Nf6 $2 8. e5
+Ng4 9. Bxf7+ $1 Kxf7 10. Ng5+ Ke8 11. Qxg4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O d6 8. Qb3 Qf6
+{ Variation A2 } 9. Bg5 Qg6 10. e5 dxe5 11. Re1 Nge7 { Variation A2a } 12.
+Bxe7 Nxe7 13. Nxe5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O d6 8. Qb3 Qf6
+{ Variation A2 } 9. Bg5 Qg6 10. e5 dxe5 11. Re1 f6 { Variation A2b } 12.
+Bxg8 fxg5 13. Bd5 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O d6 8. Qb3 Qf6
+{ Variation A2 } 9. Bg5 Qg6 10. e5 dxe5 11. Re1 e4 { Variation A2c } 12.
+Bd5 Nf6 13. Bxc6+ bxc6 14. Ne5 $1 Qh5 15. Bxf6 gxf6 16. Nxc6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O d6 8. Qb3 Qf6
+{ Variation A2 } 9. Bg5 Qg6 10. e5 dxe5 11. Re1 e4 { Variation A2c } 12.
+Bd5 Nf6 13. Bxc6+ bxc6 14. Ne5 $1 Qxg5 15. Qxf7+ Kd8 16. Nxc6# *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O d6 8. Qb3 Qd7
+{ Variation A3 - Black faces serious trouble to his development } 9. Bg5
+Nf6 { Variation A3a } 10. e5 $1 Nxe5 11. Nxe5 dxe5 12. Rd1 Qg4 13. Bxf7+ *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O d6 8. Qb3 Qd7
+{ Variation A3 - Black faces serious trouble to his development } 9. Bg5 f6
+{ Variation A3b } 10. Bxg8 fxg5 11. Bxh7 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ { Variation A } 5. c3 { White
+sacrifices pawn to gain tempo } 5... dxc3 6. bxc3 Ba5 7. O-O d6 8. Qb3 Qe7
+{ Variation A1 } 9. e5 Nxe5 10. Nxe5 Qxe5 11. Bxf7+ *
+

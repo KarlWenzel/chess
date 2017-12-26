@@ -1,0 +1,49 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 c5 2.Nc3 
+    {Variation B}
+    ( 2.f4 {Variation A} 2...g6 3.Nf3 Bg7 4.Nc3 {Transposes to Variation B
+    } 
+        ( 4.Bc4 {Variation A1 - Black restricts White's bishop on c4 using
+        pawn on e6} 4...e6 5.d4 d5! 6.Bb5+ Bd7! )
+        ( 4.c3 {Variation A2} 4...Nc6 5.d4 cxd4 6.cxd4 d5! )
+    )
+2...g6 3.f4 Bg7 4.Nf3 Nc6 5.Bc4 
+    {Variation B1 - White plans immediate kingside attack with f5}
+    ( 5.Bb5 {Variation B2 - positional approach; trade bishop for knight 
+    to double Black's pawns.  Black must keep g7 bishop active, and play 
+    f6 to exchange with White's e5-pawn if necessary} 5...Nd4 6.Bd3 {
+    Variation B2a} 
+        ( 6.O-O {Variation B2b} 6...e6 7.d3 )
+    6...d6 7.Nxd4 cxd4 8.Ne2 Nf6 9.Bb5+ {Variation B2a1} 
+        ( 9.Nxd4 {Variation B2a2} 9...Nxe4 10.Bxe4 Bxd4 11.c3 Bg7 12.Qf3 
+        Qb6 {Black queen moves to protect pawn on b7 and prevents White 
+        from castling} )
+        ( 9.c3 {Variation B2a3} 9...dxc3 10.dxc3 O-O 11.O-O e5! )
+    9...Bd7 10.Bxd7+ Qxd7 11.d3 e5 12.O-O O-O 13.f5 d5! 14.Ng3 dxe4 15.
+    dxe4 Rac8 16.Bg5 h6 )
+5...e6 
+    {Black pawn on e6 restricts White's bishop on c4}
+6.O-O 
+    {Variation B1a}
+    ( 6.f5 {Variation B1b} 6...Nge7 7.fxe6 dxe6 {preferred to fxe6 - leads
+    to solid play} 8.O-O O-O 9.d3 Na5 10.Bb3 Nxb3 11.axb3 e5 {Black opens 
+    e6 for his light-squared bishop} 12.Qe1 f6 13.Qh4 Be6 14.Bh6 Nc6 15.
+    Bxg7 Kxg7 )
+6...Nge7 
+    {Black made it much harder to attack with f5}
+7.e5 
+    {Variation B1a1}
+    ( 7.d3 {Variation B1a2} 7...d5 8.Bb3 O-O 9.Qe1 {White moves queen to 
+    kingside for advancing} 9...Na5 10.Qh4 Nec6 {Black welcomes exhanging 
+    q's, as endgame is better} 11.Qf2 b6 )
+7...d5 8.exd6 Qxd6 9.Ne4 Qc7 10.d3 b6 
+    {Black wants to fianchetto the light-square bishop}
+*
+

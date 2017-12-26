@@ -1,0 +1,83 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 c5 2.Nc3 Nc6 
+    {Variation A}
+    ( 2...e6 {Variation B} 3.f4 d5 4.Nf3 dxe4 {4...d4 fails after 5.Ne2 
+    d3?! 6.cxd3 Qxd3 7.Nc3!} 5.Bb5+ Bd7 6.Bxd7+ Nxd7 7.Nxe4 Ngf6 8.d3 {A 
+    quiet position.  White plans to 0-0 and Qe2, get the LSB on the a1-h8 
+    diagonal and play Rae1.  Black has no weaknesses, but his position is 
+    cramped and not easy to come up with a good plan} )
+    ( 2...d6 {Variation C} 3.f4 g6 4.Nf3 Bg7 5.Bb5+ Bd7 6.Bc4! {White 
+    spent the previous tempo to provoke 5...Bd7 which suits White better 
+    for this line} 6...Nc6 7.O-O e6 8.d3 Nge7 9.Qe1 O-O 10.Qh4 {White 
+    follows up with f5 and Bh6 with an attack} )
+3.f4 g6 
+    {Variation A1}
+    ( 3...d6 {Variation A2} 4.Nf3 {Note 4...g6 will transpose to A1} 4...
+    a6 {Variation A2a - Black stops Bb5} 
+        ( 4...e6 {Variation A2b} 5.Bb5 Bd7 6.d3 Be7 7.O-O Nf6 8.Bxc6 Bxc6 
+        9.Bd2 O-O 10.Qe2 b5 11.Rae1 {White is developed and ready to play 
+        kingside} 11...b4 12.Nd1 Qc7 13.Ne3 a5 14.f5! {White develops an 
+        attack while Black's LSB is blocked by the pawn chain.} )
+    5.g3 {White transposes to the Closed Sicilian a tempo up} 5...e6 {
+    5...g6 would enter the Closed Sicilian a tempo down} 6.Bg2 Be7 7.d3 
+    Nf6 8.O-O O-O 9.h3 {Both sides are developed, and White is ready to 
+    launch a kingside attack with g4} )
+    ( 3...e6 {Variation A3} 4.Nf3 d5 {If 4...a6 5.g3, then the game 
+    transposes to the Closed Sicilian with White a tempo up} 5.Bb5 Ne7 {If
+    5...Nf6, Black gets doubled pawns 6.e5 Nd7 7.Bxc6 bxc6} 6.exd5 exd5 7.
+    Qe2! {White pins the knight, threatens to double Blacks' pawns with 
+    Bxc6} 7...Qd6 8.Ne5! f6 9.Nxc6 bxc6 10.Ba4 )
+4.Nf3 Bg7 5.Bb5 
+    {Key tabia}
+5...Nd4 
+    {Variation A1a}
+    ( 5...d6 {Variation A1b} 6.O-O Bd7 7.d3 Nf6 8.Qe1 O-O {Variation A1b1 
+    - castling actually plays right into White's attack} 
+        ( 8...a6 {Variation A1b2} 9.Bxc6 Bxc6 10.Bd2 {White waits to see 
+        where Black will castle before launching attack} 10...Qd7 11.Rb1! 
+        {White anticipates Black will castle long and respond with b4!} )
+    9.Bxc6 Bxc6 10.Qh4 b5 11.f5 b4 12.Ne2 gxf5 {Variation A1b1(i)} 
+        ( 12...e6 {Variation A1b1(ii)} 13.Bh6 exf5 14.Ng5! Re8 15.Ng3 fxe4
+        16.Bxg7 Kxg7 17.Rxf6! Qxf6 18.Qxh7+ Kf8 19.Rf1 Qd4+ 20.Kh1 Ke7 21.
+        Rxf7+ {Stockfish much prefers 21.Nxe6} 21...Kd8 22.Rb7! Bxb7 23.
+        Qxb7 )
+    13.Bh6 fxe4 14.Ng5! e6 15.Bxg7 Kxg7 16.Rxf6 Kxf6 17.Rf1+! )
+6.O-O! 
+    {White is willing to trade away the b5 bishop in this system}
+6...Nxb5 
+    {Variation A1a1}
+    ( 6...e6 {Variation A1a2} 7.d3 Ne7 8.Nxd4 cxd4 9.Ne2 O-O 10.Ba4 {White
+    plans on getting DSB on a2-g8 diagonal and putting pressure on Black's
+    d4-pawn with Qe1-f2, or a timely e5, as well as playing o the 
+    kingside.  Black plans to attack the center with ...d5 or to play 
+    ...d6,...e5, and to block White's attack with a timely ...f5-advance} 
+    10...d5 11.e5 f6 12.exf6 Bxf6 13.Bb3 {White has favorable pawn 
+    structure, but Black remains solid.  White plans to bring knight to f3
+    via g1} )
+    ( 6...a6 {Variation A1a3} 7.Bc4 b5 {Variation A1a3(i)} 
+        ( 7...e6 {Variation A1a3(ii)} 8.d3 Ne7 9.Nxd4 cxd4 10.Ne2 d5 11.
+        Bb3 dxe4 12.dxe4 O-O {very similar to main line with Bc4, but a 
+        major difference that favors White: Black's pawn is on a6, 
+        weakening the b6 square} 13.e5! Nc6 14.c3 dxc3 15.bxc3!! {To 
+        control the d4-square} 15...Qc7 16.Be3 Rd8 17.Qe1 Na5 18.Qf2 )
+    8.Bd5 Rb8 9.d3 e6 10.Bb3 Ne7 11.Nxd4 cxd4 12.Ne2 {White is a little 
+    ahead on development, so he should execute his plan of attack before 
+    Black achieves any counter-play} 12...O-O 13.Qe1 d5 14.Bd2 Bb7 15.a4 
+    Qd7 16.Qf2 Nc6 17.axb5 axb5 18.f5! {White has a powerful attack} )
+7.Nxb5 d5 
+    {Variation A1a1(i)}
+    ( 7...d6 {Variation A1a1(ii)} 8.d3 Nf6 9.Nc3 O-O 10.Qe1! {To transfer 
+    queen to h4} 10...Rb8 11.Qh4 b5 12.f5! b4 13.Ne2 gxf5 14.Bh6 fxe4 15.
+    Ng5! exd3 16.cxd3 e5 17.Ng3 d5 18.Bxg7 Kxg7 19.Rxf6 Kxf6 20.Rf1+! )
+8.exd5 a6! 9.Nc3 Nf6 10.d4! Nxd5 11.dxc5 Nxc3 12.Qxd8+ Kxd8 13.bxc3 Bxc3 
+14.Rb1 Kc7 15.Rb3 Bf6 16.Bd2 Be6 17.Ba5+ Kc6 18.Rb6+ Kxc5 19.Nd2 Bd5 20.c4
+Bc6 21.Rd1! Kd6 22.Ne4+ Kc7 23.Nxf6 exf6 24.Rb2+ Kb8 25.Bb6! Rc8 26.Rd6! 
+a5 27.Rbd2 Be4 28.Rd8 Bf5 29.Rxc8+ Bxc8 30.a4! Ra6 31.c5 *
+

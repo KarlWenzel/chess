@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 e6 
+    {French Defense}
+    ( 1...c6 {Caro-Kann Defense} 2.d4 d5 3.Nc3 dxe4 4.Nxe4 )
+    ( 1...d5 {Scandinavian Defense} 2.exd5 Qxd5 
+        ( 2...Nf6 )
+    )
+    ( 1...c5 {Sicilian Defense} 2.Nf3 d6 3.d4 cxd4 4.Nxd4 Nf6 5.Nc3 )
+2.d4 d5 3.Nc3 
+    ( 3.Nd2 )
+3...Bb4 4.e5 c5 5.Bd2 *
+
