@@ -1,0 +1,195 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 { Variation A } 6. Qe2
+{ White threatens 7.h3 Nh6 8.Bxh6, wrecking Black's kingside pawn
+structure. } 6... Qe7 7. Bf4 { Again, White threatens h3 } 7... f6 {
+Variation A1 } 8. exf6 Qxe2+ { Variation A1a } 9. Bxe2 Nxf6 10. Nbd2 {
+White's plan is to retake the pawn on d4 with Nb3 and Nxd4 - note that
+10.Bxc7 leads to complications that favor Black } 10... Nd5 11. Bg3 Ncb4
+12. Nxd4 c5 $5 13. a3 cxd4 14. axb4 Nxb4 15. Kd1 $1 d3 16. Bxd3 Nxd3 17.
+cxd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ne4 { Variation B } 6. Qe2
+Nc5 7. c3 dxc3 8. Nxc3 { White's powerful e5 pawn restricts Black, who has
+trouble developing his queenside } 8... Be7 9. Be3 O-O 10. O-O-O Ne6 11.
+Ne4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Qe7 $2 { Variation C } 6.
+O-O $1 Nxe5 7. Nxe5 Qxe5 8. Re1 Ne4 9. f4 $1 Qe7 10. Nc3 f5 11. Nxe4 fxe4
+12. Qxd4 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 { Main Line - covered
+separately } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 { Variation A } 6. Qe2
+{ White threatens 7.h3 Nh6 8.Bxh6, wrecking Black's kingside pawn
+structure. } 6... Qe7 7. Bf4 { Again, White threatens h3 } 7... d6 {
+Variation A2 } 8. exd6 cxd6 { Variation A2a } 9. Nbd2 Bf5 { White may
+sacrifice pawn on c2 to gain jump on development } 10. Nb3 Bxc2 11. Nbxd4
+Bg6 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 { Variation A } 6. Qe2
+{ White threatens 7.h3 Nh6 8.Bxh6, wrecking Black's kingside pawn
+structure. } 6... Qe7 7. Bf4 { Again, White threatens h3 } 7... d6 {
+Variation A2 } 8. exd6 Qxe2+ { Variation A2b } 9. Bxe2 Bxd6 10. Bxd6 cxd6
+11. Na3 { White's idea is either Nb5 or Rd1 } 11... Nge5 { Variation A2b1 }
+12. Nb5 d3 $1 13. cxd3 { If White tries 13.Nc7+ Kd7 14.Nxa8 dxe2, his
+knight is trapped } 13... Ke7 14. Kd2 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 { Variation A } 6. Qe2
+{ White threatens 7.h3 Nh6 8.Bxh6, wrecking Black's kingside pawn
+structure. } 6... Qe7 7. Bf4 { Again, White threatens h3 } 7... d6 {
+Variation A2 } 8. exd6 Qxe2+ { Variation A2b } 9. Bxe2 Bxd6 10. Bxd6 cxd6
+11. Na3 { White's idea is either Nb5 or Rd1 } 11... O-O { Variation A2b2 }
+12. O-O Re8 13. Rfe1 Nge5 14. Nb5 Bg4 15. Nfxd4 Nxd4 16. Nxd4 Bxe2 17. Rxe2
+*
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 { Variation A } 6. Qe2
+{ White threatens 7.h3 Nh6 8.Bxh6, wrecking Black's kingside pawn
+structure. } 6... Qe7 7. Bf4 { Again, White threatens h3 } 7... f6 {
+Variation A1 } 8. exf6 gxf6 { Variation A1b - Black wants to station a
+knight on e5 - but in the process will weaken his pawn structure } 9. Nbd2
+Qxe2+ { Variation A1b1 } 10. Bxe2 Nge5 11. O-O-O d5 { If 11...Bc5, then
+12.Ne4! } 12. Nb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 { Variation A } 6. Qe2
+{ White threatens 7.h3 Nh6 8.Bxh6, wrecking Black's kingside pawn
+structure. } 6... Qe7 7. Bf4 { Again, White threatens h3 } 7... f6 {
+Variation A1 } 8. exf6 gxf6 { Variation A1b - Black wants to station a
+knight on e5 - but in the process will weaken his pawn structure } 9. Nbd2
+d6 { Variation A1b2 } 10. O-O Qxe2 11. Bxe2 Nge5 12. Nb3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 { Variation A } 6. Qe2
+{ White threatens 7.h3 Nh6 8.Bxh6, wrecking Black's kingside pawn
+structure. } 6... Qe7 7. Bf4 { Again, White threatens h3 } 7... f6 {
+Variation A1 } 8. exf6 Nxf6 { Variation A1c } 9. Nbd2 d6 10. Nb3 Qxe2+ 11.
+Bxe2 d3 12. Bxd3 Nb4 13. Kd1 Nxd3 14. cxd3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 Ne4 7. Nxd4 Bc5
+8. Be3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 { 6.exd6 Bxd6 and
+6.exf6 dxc4 are both good for Black } 6... Ne4 7. Nxd4 { Key tabia } 7...
+Bd7 8. Bxc6 bxc6 9. O-O { Fundemental Tabia for the 5...d5, 7...Bd7 line }
+9... Bc5 { Variation A } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 { 6.exd6 Bxd6 and
+6.exf6 dxc4 are both good for Black } 6... Ne4 7. Nxd4 { Key tabia } 7...
+Bd7 8. Bxc6 bxc6 9. O-O { Fundemental Tabia for the 5...d5, 7...Bd7 line }
+9... Be7 { Variation B } *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 d5 6. Bb5 { 6.exd6 Bxd6 and
+6.exf6 dxc4 are both good for Black } 6... Ne4 7. Nxd4 { Key tabia } 7...
+Bd7 8. Bxc6 bxc6 9. O-O { Fundemental Tabia for the 5...d5, 7...Bd7 line }
+9... c5 { Variation C } *
+
