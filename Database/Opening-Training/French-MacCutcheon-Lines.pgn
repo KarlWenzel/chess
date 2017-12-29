@@ -1,0 +1,27 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 exd5 { Variation A } 6. Qf3
+{ White is ready to castle long and organize an attack on the kingside }
+6... Nbd7 { White gets a small but lasting advantage if 6...c6 7.Bxf6 } 7.
+O-O-O Be7 { Black defends against Nxd5 but loses a tempo } 8. Bd3 O-O 9.
+Nge2 c6 10. Ng3 *
+
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1. e4 e6 2. d4 d5 3. Nc3 Nf6 4. Bg5 Bb4 5. exd5 Qxd5 { Variation B } 6.
+Bxf6 Bxc3+ { Black must play this b/c 6...gxf6?! 7.Qd2 - White is better:
+7...Bxc3 8.Qxc3 Nc6 9.Nf3 Bd7 10.Bc4 (or) 7...Qa5 8.Nge2 followed by a3 and
+0-0-0 } 7. bxc3 gxf6 8. Qd2 { PAGE 313 FOR MORE } *
+
