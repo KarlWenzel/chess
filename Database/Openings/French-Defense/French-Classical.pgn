@@ -1,0 +1,30 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Nf6 4.Bg5 Be7 5.e5 
+    {White gains space and plans on trading DSBs after the knight yields}
+5...Ne4 
+    {Variation A}
+    ( 5...Nfd7 {Variation B - solid} 6.Bxe7 Qxe7 7.f4 {White gains more 
+    space with strong center pawn structure.  White's plan: castle long 
+    after Nf3 and Qd2, play to kingside and center.  Black's plan: caster 
+    short and try to undermine center with c5 and f6, the passive bishop 
+    on c8 is a major problem for Black and characteristic of the French} 
+    7...O-O {Variation B1} 
+        ( 7...a6 {Variation B2} 8.Nf3 c5 9.dxc5 {By taking c5, White 
+        creates a strong outpost on d4} 9...Nc6 10.Qd2 {PAGE 344 FOR MORE}
+        )
+    8.Nf3 c5 9.dxc5 Nc6 10.Qd2 {PAGE 332 FOR MORE} )
+6.Bxe7 Nxc3 
+    {Variation A1}
+    ( 6...Qxe7 {Variation A2} 7.Nxe4 dxe4 8.c3 {White has superior pawn 
+    structure and threatens Qg4} 8...c5 9.Qg4 cxd4 10.Qxg7 Rf8 11.Ne2! Nc6
+    12.Rd1 )
+7.Qg4! Qxe7 8.Qxg7 Qb4 9.Qxh8+ Kd7 10.Nf3 Qxb2 11.Kd2 Nb1+ 12.Rxb1 Qxb1 
+13.Qxh7 *
+

@@ -1,0 +1,44 @@
+[Event "?"]
+[Site "?"]
+[Date "????.??.??"]
+[Round "?"]
+[White "?"]
+[Black "?"]
+[Result "*"]
+
+1.e4 e6 2.d4 d5 3.Nc3 Bb4 4.e5 c5 
+    {Variation A}
+    ( 4...Ne7 {Variation B} 5.Bd2 b6 {Black plans to exchange LSBs after 
+    ...Ba6} 6.Nce2 {White moves knight and perfers to trade DSBs, then 
+    create a powerful bind in the center} 6...Bxd2+ 7.Qxd2 c5 {Variation 
+    B1} 
+        ( 7...Ba6 {Variation B2} 8.h4!? {White plans to play h5-h6 to 
+        control more kingside space} 8...Qd7 9.h5 h6 10.f4 f5 11.Nf3 {PAGE
+        379 FOR MORE} )
+    8.c3 Ba6 9.h4 h5 {PAGE 377 FOR MORE} )
+    ( 4...Qd7 {Variation C - Black plans b6 and Ba6} 5.Qg4! f5 6.Qh5+ Qf7 
+    7.Qf3! b6 8.Nh3 Ba6 9.Bxa6 Nxa6 10.Qd3! {PAGE 381 FOR MORE} )
+    ( 4...b6 {Variation D} 5.Qg4 Bf8 {5...g6 makes it too cramped} 6.Bg5 
+    Ne7? {Variation D1} 
+        ( 6...Qd7 {Variation D2} 7.Nf3 Ba6 8.Bxa6 Nxa6 9.O-O )
+    7.Bxe7 Kxe7 {If 7...Qxe7 then 8.Nxd5! exd5 8.Qxc8} 8.Nf3 )
+5.Bd2 
+    {Lev Alburt recommends this over the more common 5.a3}
+5...Ne7 
+    {Variation A1}
+    ( 5...cxd4 {Variation A2} 6.Nb5! Bxd2+ {Variation A2a} 
+        ( 6...Bc5 {Variation A2b} 7.Qg4 Ne7 8.b4! a6 9.bxc5 axb5 10.Qxg7 
+        Rg8 11.Qxh7 )
+        ( 6...Bf8 {Variation A2c} 7.Nf3 Bd7 8.Nbxd4 Nc6 9.Bd3 {PAGE 371 
+        FOR MORE} )
+    7.Qxd2 Nc6 8.f4 a6 9.Nxd4 Qb6 10.O-O-O {PAGE 368 FOR MORE} )
+    ( 5...Nc6 {Variation A3} 6.Nb5 Bxd2+ 7.Qxd2 Nxd4 8.Nxd4 cxd4 9.f4 {
+    PAGE 374 FOR MORE} )
+    ( 5...Nh6 {Variation A4} 6.Nb5 {If White captures the knight instead, 
+    the line ends up ruining White's queenside pawn structure} 6...Bxd2+ 
+    7.Qxd2 O-O 8.f4 a6 9.Nd6 cxd4 10.Nf3 {Compare to A1 variation at 
+    5...Ne7} )
+6.Nb5 Bxd2+ 7.Qxd2 O-O 8.f4 
+    {PAGE 354 FOR MORE}
+*
+
